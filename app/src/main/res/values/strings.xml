@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KRLDailyAndroidApp</string>
+
+    <string-array name="categories_array">
+        <item>All</item>
+        <item>Berita</item>
+        <item>Rute</item>
+        <item>Kereta</item>
+        <item>Masinis</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1075273500230",
+    "firebase_url": "https://krl-daily-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "krl-daily",
+    "storage_bucket": "krl-daily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075273500230:android:7ef6a2f090ccdcca5a2c47",
+        "android_client_info": {
+          "package_name": "com.example.krldailyandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3m2Wy3OU1hS_sCvNXWgSmHYksQSPsBPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
